@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm an undergraduate computer science student, currently leaning about Data Science and Machine Learning.
+
+Here you will find some small projects that I did or working on for either the university, or skill training.
 
 <!--
 **jordan080/jordan080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
