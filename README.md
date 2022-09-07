@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm an undergraduate computer science student, leaning about the world of Data Science and AI.
+I'm an undergraduate computer science student, learning about the world of Data Science and AI.
 
 Here you will find some small projects that I did or working on for either the university, or skill training.
 
